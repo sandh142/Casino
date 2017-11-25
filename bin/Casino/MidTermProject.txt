@@ -1,0 +1,7 @@
+
+Your score is :
+Remaining chances are :
+Congratulation" you've won
+SORRY GAME OVER
+The number you entered is greater than the number chosen by the program
+The number you entered is less than the number chosen by the program
